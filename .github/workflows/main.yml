@@ -1,0 +1,2 @@
+Regular RDP connection and execution
+  SharpRDP.exe computername=target.domain command="C:\Temp\file.exe" username=domain\user password=password
